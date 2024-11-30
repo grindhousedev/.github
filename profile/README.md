@@ -14,6 +14,6 @@ If you wish to join the Grind, you can
 ```markdown
 [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue)](https://github.com/The-Grindhouse/guidelines)
 ```
-2. Join [our Discord server](https://orhun.dev/discord)
+2. Join [our Discord server](https://discord.com/invite/vdUh3KTBPX)
 
 3. **Don't stop Grinding**, of course
