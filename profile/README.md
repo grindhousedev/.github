@@ -1,5 +1,7 @@
 # The Grindhouse
 
+May the Grind never end.
+
 [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue)](https://github.com/The-Grindhouse/guidelines)
 
 ## What is the Grind
