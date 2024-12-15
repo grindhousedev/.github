@@ -6,7 +6,7 @@ May the Grind never end.
 
 ## What is the Grind
 
-Just see [the Grindlines](https://github/The-Grindhouse/grindlines).
+Just see [the Grindlines](https://github.com/The-Grindhouse/grindlines).
 
 ## How to join
 
