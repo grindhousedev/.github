@@ -1,2 +1,38 @@
 [
+{
+  "login": "orhun",
+  "id": 24392180,
+  "node_id": "MDQ6VXNlcjI0MzkyMTgw",
+  "avatar_url": "https://avatars.githubusercontent.com/u/24392180?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/orhun",
+  "html_url": "https://github.com/orhun",
+  "followers_url": "https://api.github.com/users/orhun/followers",
+  "following_url": "https://api.github.com/users/orhun/following{/other_user}",
+  "gists_url": "https://api.github.com/users/orhun/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/orhun/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/orhun/subscriptions",
+  "organizations_url": "https://api.github.com/users/orhun/orgs",
+  "repos_url": "https://api.github.com/users/orhun/repos",
+  "events_url": "https://api.github.com/users/orhun/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/orhun/received_events",
+  "type": "User",
+  "user_view_type": "public",
+  "site_admin": false,
+  "name": "Orhun Parmaksız",
+  "company": "@archlinux",
+  "blog": "orhun.dev",
+  "location": "Ankara, Turkey",
+  "email": "orhunparmaksiz@gmail.com",
+  "hireable": true,
+  "bio": ">_ Building the future of the terminal 🦀 @ratatui,\r\ncreator of @git-cliff ⛰\r\npackaging stuff for @archlinux btw 📦",
+  "twitter_username": "orhundev",
+  "public_repos": 442,
+  "public_gists": 10,
+  "followers": 3028,
+  "following": 525,
+  "created_at": "2016-12-05T15:47:47Z",
+  "updated_at": "2024-11-24T19:57:46Z"
+}
+
 ]
