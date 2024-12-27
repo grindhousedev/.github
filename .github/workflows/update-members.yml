@@ -17,7 +17,7 @@ jobs:
 
       - name: Update
         shell: bash
-        run: ./github/workflows/update-members.sh
+        run: ./.github/workflows/update-members.sh
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
