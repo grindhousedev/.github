@@ -28,4 +28,4 @@ jobs:
           set +e
           git add *.json
           git commit -m "Update members"
-          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git upstream
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git main
