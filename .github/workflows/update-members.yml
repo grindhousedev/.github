@@ -13,7 +13,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          ref: upstream
           fetch-depth: 1
 
       - name: Update
