@@ -6,7 +6,9 @@
 
 ## What is the Grind™?
 
-Just see [The Grindlines](https://github.com/The-Grindhouse/grindlines)
+Visit <https://grindhouse.dev> for more information.
+
+Also, see [The Great Grinding Guidelines](https://github.com/The-Grindhouse/grindlines).
 
 ## How to join?
 
