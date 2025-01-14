@@ -538,5 +538,41 @@
   "created_at": "2013-03-18T15:45:36Z",
   "updated_at": "2025-01-11T21:24:52Z"
 }
+,
+{
+  "login": "booniepepper",
+  "id": 17605298,
+  "node_id": "MDQ6VXNlcjE3NjA1Mjk4",
+  "avatar_url": "https://avatars.githubusercontent.com/u/17605298?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/booniepepper",
+  "html_url": "https://github.com/booniepepper",
+  "followers_url": "https://api.github.com/users/booniepepper/followers",
+  "following_url": "https://api.github.com/users/booniepepper/following{/other_user}",
+  "gists_url": "https://api.github.com/users/booniepepper/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/booniepepper/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/booniepepper/subscriptions",
+  "organizations_url": "https://api.github.com/users/booniepepper/orgs",
+  "repos_url": "https://api.github.com/users/booniepepper/repos",
+  "events_url": "https://api.github.com/users/booniepepper/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/booniepepper/received_events",
+  "type": "User",
+  "user_view_type": "public",
+  "site_admin": false,
+  "name": "Justin \"J.R.\" Hill",
+  "company": "Furnished Finder",
+  "blog": "https://so.dang.cool",
+  "location": "US",
+  "email": "justin@so.dang.cool",
+  "hireable": null,
+  "bio": "Programming philologist, principal engineer at Furnished Finder, concatenative programming nerd. (❤️ plain text and pipes, I think it's terminal.)",
+  "twitter_username": null,
+  "public_repos": 208,
+  "public_gists": 7,
+  "followers": 102,
+  "following": 157,
+  "created_at": "2016-03-03T00:24:50Z",
+  "updated_at": "2025-01-14T18:59:55Z"
+}
 
 ]
