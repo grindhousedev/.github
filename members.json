@@ -29,7 +29,7 @@
   "twitter_username": null,
   "public_repos": 449,
   "public_gists": 10,
-  "followers": 3108,
+  "followers": 3109,
   "following": 529,
   "created_at": "2016-12-05T15:47:47Z",
   "updated_at": "2025-01-15T19:37:08Z"
@@ -645,6 +645,42 @@
   "following": 4,
   "created_at": "2023-11-21T18:12:42Z",
   "updated_at": "2025-01-17T10:09:22Z"
+}
+,
+{
+  "login": "NeddM",
+  "id": 91211902,
+  "node_id": "MDQ6VXNlcjkxMjExOTAy",
+  "avatar_url": "https://avatars.githubusercontent.com/u/91211902?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/NeddM",
+  "html_url": "https://github.com/NeddM",
+  "followers_url": "https://api.github.com/users/NeddM/followers",
+  "following_url": "https://api.github.com/users/NeddM/following{/other_user}",
+  "gists_url": "https://api.github.com/users/NeddM/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/NeddM/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/NeddM/subscriptions",
+  "organizations_url": "https://api.github.com/users/NeddM/orgs",
+  "repos_url": "https://api.github.com/users/NeddM/repos",
+  "events_url": "https://api.github.com/users/NeddM/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/NeddM/received_events",
+  "type": "User",
+  "user_view_type": "public",
+  "site_admin": false,
+  "name": "Nedd Chairi Muñoz",
+  "company": null,
+  "blog": "neddchairiweb@gmail.com",
+  "location": "Spain",
+  "email": null,
+  "hireable": true,
+  "bio": "DevSecOps | Github Actions Certified | Rustacean 🦀",
+  "twitter_username": null,
+  "public_repos": 46,
+  "public_gists": 0,
+  "followers": 19,
+  "following": 43,
+  "created_at": "2021-09-22T16:16:00Z",
+  "updated_at": "2025-01-07T15:25:51Z"
 }
 
 ]
