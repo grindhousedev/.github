@@ -380,9 +380,9 @@
   "user_view_type": "public",
   "site_admin": false,
   "name": "Roshan Tiwaree",
-  "company": " Eorzea",
+  "company": null,
   "blog": "",
-  "location": ">_",
+  "location": " Eorzea",
   "email": null,
   "hireable": true,
   "bio": null,
@@ -392,7 +392,7 @@
   "followers": 31,
   "following": 15,
   "created_at": "2022-07-21T19:05:41Z",
-  "updated_at": "2025-02-04T13:20:22Z"
+  "updated_at": "2025-02-06T12:17:19Z"
 }
 ,
 {
@@ -461,7 +461,7 @@
   "twitter_username": null,
   "public_repos": 9,
   "public_gists": 0,
-  "followers": 15,
+  "followers": 16,
   "following": 19,
   "created_at": "2017-04-13T22:06:04Z",
   "updated_at": "2025-01-22T12:01:56Z"
