@@ -682,5 +682,41 @@
   "created_at": "2021-09-22T16:16:00Z",
   "updated_at": "2025-01-22T10:46:10Z"
 }
+,
+{
+  "login": "cartercanedy",
+  "id": 99052281,
+  "node_id": "U_kgDOBedq-Q",
+  "avatar_url": "https://avatars.githubusercontent.com/u/99052281?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/cartercanedy",
+  "html_url": "https://github.com/cartercanedy",
+  "followers_url": "https://api.github.com/users/cartercanedy/followers",
+  "following_url": "https://api.github.com/users/cartercanedy/following{/other_user}",
+  "gists_url": "https://api.github.com/users/cartercanedy/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/cartercanedy/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/cartercanedy/subscriptions",
+  "organizations_url": "https://api.github.com/users/cartercanedy/orgs",
+  "repos_url": "https://api.github.com/users/cartercanedy/repos",
+  "events_url": "https://api.github.com/users/cartercanedy/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/cartercanedy/received_events",
+  "type": "User",
+  "user_view_type": "public",
+  "site_admin": false,
+  "name": null,
+  "company": "Novartis Pharma AG",
+  "blog": "cartercanedy.com",
+  "location": "San Diego, CA",
+  "email": null,
+  "hireable": null,
+  "bio": null,
+  "twitter_username": null,
+  "public_repos": 16,
+  "public_gists": 5,
+  "followers": 4,
+  "following": 11,
+  "created_at": "2022-02-04T22:04:43Z",
+  "updated_at": "2025-02-09T19:57:51Z"
+}
 
 ]
