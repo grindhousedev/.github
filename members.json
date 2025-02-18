@@ -718,5 +718,41 @@
   "created_at": "2022-02-04T22:04:43Z",
   "updated_at": "2025-02-09T19:57:51Z"
 }
+,
+{
+  "login": "ufuayk",
+  "id": 132388044,
+  "node_id": "U_kgDOB-QUzA",
+  "avatar_url": "https://avatars.githubusercontent.com/u/132388044?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/ufuayk",
+  "html_url": "https://github.com/ufuayk",
+  "followers_url": "https://api.github.com/users/ufuayk/followers",
+  "following_url": "https://api.github.com/users/ufuayk/following{/other_user}",
+  "gists_url": "https://api.github.com/users/ufuayk/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/ufuayk/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/ufuayk/subscriptions",
+  "organizations_url": "https://api.github.com/users/ufuayk/orgs",
+  "repos_url": "https://api.github.com/users/ufuayk/repos",
+  "events_url": "https://api.github.com/users/ufuayk/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/ufuayk/received_events",
+  "type": "User",
+  "user_view_type": "public",
+  "site_admin": false,
+  "name": "Ufuk",
+  "company": "SNEAKERsoln",
+  "blog": "ufuayk.github.io",
+  "location": "Turkey",
+  "email": null,
+  "hireable": null,
+  "bio": "Front-end Web Developer | UI/UX Design Enthusiast | Blogger | Writer | GNU/Linux Enthusiast  | Founder of @sneakersoln",
+  "twitter_username": null,
+  "public_repos": 27,
+  "public_gists": 3,
+  "followers": 10,
+  "following": 25,
+  "created_at": "2023-05-02T17:19:25Z",
+  "updated_at": "2025-02-18T17:45:22Z"
+}
 
 ]
