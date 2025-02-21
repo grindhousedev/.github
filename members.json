@@ -345,7 +345,7 @@
   "site_admin": false,
   "name": "emirhan",
   "company": null,
-  "blog": "babaoglu.dev",
+  "blog": "lareii.github.io",
   "location": "Bursa, Türkiye",
   "email": null,
   "hireable": null,
@@ -356,7 +356,7 @@
   "followers": 74,
   "following": 38,
   "created_at": "2020-10-16T14:12:43Z",
-  "updated_at": "2025-02-07T20:52:12Z"
+  "updated_at": "2025-02-21T20:46:20Z"
 }
 ,
 {
@@ -712,7 +712,7 @@
   "bio": null,
   "twitter_username": null,
   "public_repos": 15,
-  "public_gists": 5,
+  "public_gists": 6,
   "followers": 4,
   "following": 11,
   "created_at": "2022-02-04T22:04:43Z",
