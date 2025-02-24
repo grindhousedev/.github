@@ -777,18 +777,18 @@
   "site_admin": false,
   "name": "Newton Toto",
   "company": null,
-  "blog": "",
+  "blog": "blog.sokoro.cc",
   "location": "Nairobi, Kenya",
-  "email": null,
+  "email": "nyachiengatoto@gmail.com",
   "hireable": true,
   "bio": "I do Rust, Javascript and C. Loves yogurt and Linux",
-  "twitter_username": "newton_toto",
+  "twitter_username": null,
   "public_repos": 24,
   "public_gists": 1,
   "followers": 39,
   "following": 50,
   "created_at": "2019-08-08T06:44:53Z",
-  "updated_at": "2024-12-21T12:54:31Z"
+  "updated_at": "2025-02-24T15:28:01Z"
 }
 
 ]
