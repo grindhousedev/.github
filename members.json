@@ -705,7 +705,7 @@
   "site_admin": false,
   "name": "Ufuk",
   "company": "@mbrell",
-  "blog": "ufuk.party",
+  "blog": "https://ufuk.party",
   "location": "Turkey",
   "email": null,
   "hireable": null,
@@ -716,7 +716,7 @@
   "followers": 11,
   "following": 25,
   "created_at": "2023-05-02T17:19:25Z",
-  "updated_at": "2025-03-13T17:33:37Z"
+  "updated_at": "2025-03-13T19:02:33Z"
 }
 ,
 {
