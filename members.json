@@ -356,7 +356,7 @@
   "followers": 31,
   "following": 17,
   "created_at": "2022-07-21T19:05:41Z",
-  "updated_at": "2025-03-28T19:11:58Z"
+  "updated_at": "2025-03-30T15:17:21Z"
 }
 ,
 {
@@ -775,7 +775,7 @@
   "type": "User",
   "user_view_type": "public",
   "site_admin": false,
-  "name": "Aluvse",
+  "name": "Daisuke Kambe",
   "company": null,
   "blog": "",
   "location": "bishkek, kyrgyzstan",
@@ -788,7 +788,7 @@
   "followers": 6,
   "following": 76,
   "created_at": "2023-08-06T11:39:33Z",
-  "updated_at": "2025-03-30T14:21:17Z"
+  "updated_at": "2025-03-30T15:32:15Z"
 }
 
 ]
