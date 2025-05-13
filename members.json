@@ -862,5 +862,41 @@
   "created_at": "2022-05-26T03:33:55Z",
   "updated_at": "2025-05-07T19:52:40Z"
 }
+,
+{
+  "login": "mertkaradayi",
+  "id": 29012723,
+  "node_id": "MDQ6VXNlcjI5MDEyNzIz",
+  "avatar_url": "https://avatars.githubusercontent.com/u/29012723?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/mertkaradayi",
+  "html_url": "https://github.com/mertkaradayi",
+  "followers_url": "https://api.github.com/users/mertkaradayi/followers",
+  "following_url": "https://api.github.com/users/mertkaradayi/following{/other_user}",
+  "gists_url": "https://api.github.com/users/mertkaradayi/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/mertkaradayi/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/mertkaradayi/subscriptions",
+  "organizations_url": "https://api.github.com/users/mertkaradayi/orgs",
+  "repos_url": "https://api.github.com/users/mertkaradayi/repos",
+  "events_url": "https://api.github.com/users/mertkaradayi/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/mertkaradayi/received_events",
+  "type": "User",
+  "user_view_type": "public",
+  "site_admin": false,
+  "name": "Mert Karadayi",
+  "company": null,
+  "blog": "imertkaradayi.com",
+  "location": null,
+  "email": "imertkaradayi@gmail.com",
+  "hireable": null,
+  "bio": "rust, web3, finance",
+  "twitter_username": null,
+  "public_repos": 9,
+  "public_gists": 0,
+  "followers": 3,
+  "following": 3,
+  "created_at": "2017-05-28T09:26:06Z",
+  "updated_at": "2025-05-11T08:53:34Z"
+}
 
 ]
