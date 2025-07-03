@@ -138,7 +138,7 @@
   "public_repos": 46,
   "public_gists": 0,
   "followers": 126,
-  "following": 575,
+  "following": 576,
   "created_at": "2019-02-12T16:22:18Z",
   "updated_at": "2025-07-01T19:44:23Z"
 }
@@ -173,7 +173,7 @@
   "twitter_username": null,
   "public_repos": 0,
   "public_gists": 0,
-  "followers": 11299,
+  "followers": 11298,
   "following": 0,
   "created_at": "2008-05-13T06:14:25Z",
   "updated_at": "2018-04-10T17:22:33Z"
@@ -209,7 +209,7 @@
   "twitter_username": null,
   "public_repos": 0,
   "public_gists": 0,
-  "followers": 11299,
+  "followers": 11298,
   "following": 0,
   "created_at": "2008-05-13T06:14:25Z",
   "updated_at": "2018-04-10T17:22:33Z"
@@ -933,6 +933,42 @@
   "following": 0,
   "created_at": "2025-05-09T22:26:45Z",
   "updated_at": "2025-05-17T21:37:14Z"
+}
+,
+{
+  "login": "femrek",
+  "id": 29581978,
+  "node_id": "MDQ6VXNlcjI5NTgxOTc4",
+  "avatar_url": "https://avatars.githubusercontent.com/u/29581978?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/femrek",
+  "html_url": "https://github.com/femrek",
+  "followers_url": "https://api.github.com/users/femrek/followers",
+  "following_url": "https://api.github.com/users/femrek/following{/other_user}",
+  "gists_url": "https://api.github.com/users/femrek/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/femrek/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/femrek/subscriptions",
+  "organizations_url": "https://api.github.com/users/femrek/orgs",
+  "repos_url": "https://api.github.com/users/femrek/repos",
+  "events_url": "https://api.github.com/users/femrek/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/femrek/received_events",
+  "type": "User",
+  "user_view_type": "public",
+  "site_admin": false,
+  "name": "Faruk Emre",
+  "company": null,
+  "blog": "femrek.me",
+  "location": null,
+  "email": null,
+  "hireable": null,
+  "bio": null,
+  "twitter_username": null,
+  "public_repos": 16,
+  "public_gists": 0,
+  "followers": 43,
+  "following": 45,
+  "created_at": "2017-06-20T19:20:25Z",
+  "updated_at": "2025-06-18T13:52:58Z"
 }
 
 ]
