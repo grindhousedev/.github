@@ -991,7 +991,7 @@
   "type": "User",
   "user_view_type": "public",
   "site_admin": false,
-  "name": null,
+  "name": "illegitimate-egg",
   "company": null,
   "blog": "https://illegitimate-egg.neocities.org/",
   "location": null,
@@ -1004,7 +1004,7 @@
   "followers": 6,
   "following": 5,
   "created_at": "2020-04-19T15:26:09Z",
-  "updated_at": "2025-07-27T21:03:23Z"
+  "updated_at": "2025-07-27T21:25:32Z"
 }
 ,
 {
