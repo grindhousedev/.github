@@ -173,7 +173,7 @@
   "twitter_username": null,
   "public_repos": 0,
   "public_gists": 0,
-  "followers": 11507,
+  "followers": 11508,
   "following": 0,
   "created_at": "2008-05-13T06:14:25Z",
   "updated_at": "2018-04-10T17:22:33Z"
@@ -209,7 +209,7 @@
   "twitter_username": null,
   "public_repos": 0,
   "public_gists": 0,
-  "followers": 11507,
+  "followers": 11508,
   "following": 0,
   "created_at": "2008-05-13T06:14:25Z",
   "updated_at": "2018-04-10T17:22:33Z"
@@ -241,14 +241,14 @@
   "location": ">_",
   "email": null,
   "hireable": null,
-  "bio": "Self studying mathematics, 15y/o",
+  "bio": "Self studying mathematics, λ (A : Type) → λ (f : A → A) → λ (x : A) → f15(x) years old",
   "twitter_username": null,
   "public_repos": 2,
   "public_gists": 0,
   "followers": 16,
   "following": 141,
   "created_at": "2022-06-18T00:01:09Z",
-  "updated_at": "2025-07-12T06:05:51Z"
+  "updated_at": "2025-08-16T20:16:05Z"
 }
 ,
 {
