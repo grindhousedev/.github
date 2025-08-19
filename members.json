@@ -27,7 +27,7 @@
   "hireable": true,
   "bio": "Open source, Rust & terminals! 🦀\r\n\r\nMaintainer @ratatui | @git-cliff | @archlinux  ",
   "twitter_username": null,
-  "public_repos": 481,
+  "public_repos": 482,
   "public_gists": 10,
   "followers": 3845,
   "following": 563,
@@ -241,14 +241,14 @@
   "location": ">_",
   "email": null,
   "hireable": null,
-  "bio": "Self studying mathematics, λ (A : Type) → λ (f : A → A) → λ (x : A) → f15(x) years old",
+  "bio": "Self studying mathematics, λ (A : Type) → λ (f : A → A) → λ (x : A) → f^15(x) years old",
   "twitter_username": null,
   "public_repos": 2,
   "public_gists": 0,
   "followers": 18,
   "following": 141,
   "created_at": "2022-06-18T00:01:09Z",
-  "updated_at": "2025-08-16T20:16:05Z"
+  "updated_at": "2025-08-19T21:11:47Z"
 }
 ,
 {
