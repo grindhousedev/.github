@@ -704,7 +704,7 @@
   "user_view_type": "public",
   "site_admin": false,
   "name": "Ufuk",
-  "company": null,
+  "company": "a septillion-dollar co. ",
   "blog": "https://ufuk.party",
   "location": "Ankara, Turkey",
   "email": null,
@@ -714,9 +714,9 @@
   "public_repos": 43,
   "public_gists": 3,
   "followers": 18,
-  "following": 29,
+  "following": 28,
   "created_at": "2023-05-02T17:19:25Z",
-  "updated_at": "2025-10-02T18:25:01Z"
+  "updated_at": "2025-10-02T19:56:28Z"
 }
 ,
 {
