@@ -351,12 +351,12 @@
   "hireable": true,
   "bio": null,
   "twitter_username": null,
-  "public_repos": 15,
+  "public_repos": 14,
   "public_gists": 4,
   "followers": 35,
-  "following": 19,
+  "following": 15,
   "created_at": "2022-07-21T19:05:41Z",
-  "updated_at": "2026-01-05T19:33:13Z"
+  "updated_at": "2026-01-07T17:28:07Z"
 }
 ,
 {
@@ -462,7 +462,7 @@
   "public_repos": 35,
   "public_gists": 0,
   "followers": 366,
-  "following": 586,
+  "following": 587,
   "created_at": "2022-05-20T21:08:00Z",
   "updated_at": "2025-08-04T07:40:22Z"
 }
