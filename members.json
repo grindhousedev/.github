@@ -27,7 +27,7 @@
   "hireable": true,
   "bio": "Terminal Chef at @ratatui |\r\n\r\nMaintainer at @archlinux btw  ",
   "twitter_username": null,
-  "public_repos": 520,
+  "public_repos": 521,
   "public_gists": 10,
   "followers": 4565,
   "following": 583,
@@ -173,7 +173,7 @@
   "twitter_username": null,
   "public_repos": 0,
   "public_gists": 0,
-  "followers": 12237,
+  "followers": 12236,
   "following": 0,
   "created_at": "2008-05-13T06:14:25Z",
   "updated_at": "2018-04-10T17:22:33Z"
@@ -209,7 +209,7 @@
   "twitter_username": null,
   "public_repos": 0,
   "public_gists": 0,
-  "followers": 12237,
+  "followers": 12236,
   "following": 0,
   "created_at": "2008-05-13T06:14:25Z",
   "updated_at": "2018-04-10T17:22:33Z"
@@ -680,7 +680,7 @@
   "followers": 6,
   "following": 13,
   "created_at": "2022-02-04T22:04:43Z",
-  "updated_at": "2026-03-22T01:02:24Z"
+  "updated_at": "2026-03-26T17:28:30Z"
 }
 ,
 {
@@ -1037,8 +1037,8 @@
   "twitter_username": null,
   "public_repos": 90,
   "public_gists": 13,
-  "followers": 158,
-  "following": 1282,
+  "followers": 159,
+  "following": 1283,
   "created_at": "2021-07-27T12:04:08Z",
   "updated_at": "2026-03-13T05:15:37Z"
 }
