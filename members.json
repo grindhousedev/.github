@@ -29,7 +29,7 @@
   "twitter_username": null,
   "public_repos": 524,
   "public_gists": 10,
-  "followers": 4897,
+  "followers": 4898,
   "following": 588,
   "created_at": "2016-12-05T15:47:47Z",
   "updated_at": "2026-05-13T20:56:46Z"
@@ -173,7 +173,7 @@
   "twitter_username": null,
   "public_repos": 0,
   "public_gists": 0,
-  "followers": 12401,
+  "followers": 12404,
   "following": 0,
   "created_at": "2008-05-13T06:14:25Z",
   "updated_at": "2018-04-10T17:22:33Z"
@@ -209,7 +209,7 @@
   "twitter_username": null,
   "public_repos": 0,
   "public_gists": 0,
-  "followers": 12401,
+  "followers": 12404,
   "following": 0,
   "created_at": "2008-05-13T06:14:25Z",
   "updated_at": "2018-04-10T17:22:33Z"
@@ -235,20 +235,20 @@
   "type": "User",
   "user_view_type": "public",
   "site_admin": false,
-  "name": "Monocled",
+  "name": null,
   "company": null,
   "blog": "",
-  "location": ">_",
+  "location": null,
   "email": null,
   "hireable": null,
-  "bio": "Hobbyist, learning formal methods and systems programming. 16y/o",
+  "bio": null,
   "twitter_username": null,
   "public_repos": 4,
   "public_gists": 0,
   "followers": 29,
   "following": 179,
   "created_at": "2022-06-18T00:01:09Z",
-  "updated_at": "2026-04-19T00:32:32Z"
+  "updated_at": "2026-05-15T08:42:11Z"
 }
 ,
 {
@@ -461,7 +461,7 @@
   "twitter_username": null,
   "public_repos": 35,
   "public_gists": 0,
-  "followers": 429,
+  "followers": 430,
   "following": 608,
   "created_at": "2022-05-20T21:08:00Z",
   "updated_at": "2025-08-04T07:40:22Z"
@@ -896,7 +896,7 @@
   "followers": 17,
   "following": 11,
   "created_at": "2017-05-28T09:26:06Z",
-  "updated_at": "2026-04-26T16:09:05Z"
+  "updated_at": "2026-05-15T09:46:01Z"
 }
 ,
 {
