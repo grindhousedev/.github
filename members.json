@@ -173,7 +173,7 @@
   "twitter_username": null,
   "public_repos": 0,
   "public_gists": 0,
-  "followers": 12753,
+  "followers": 12756,
   "following": 0,
   "created_at": "2008-05-13T06:14:25Z",
   "updated_at": "2018-04-10T17:22:33Z"
@@ -209,7 +209,7 @@
   "twitter_username": null,
   "public_repos": 0,
   "public_gists": 0,
-  "followers": 12753,
+  "followers": 12756,
   "following": 0,
   "created_at": "2008-05-13T06:14:25Z",
   "updated_at": "2018-04-10T17:22:33Z"
@@ -392,7 +392,7 @@
   "followers": 43,
   "following": 97,
   "created_at": "2020-10-30T04:40:50Z",
-  "updated_at": "2025-06-26T19:17:58Z"
+  "updated_at": "2026-08-06T19:29:09Z"
 }
 ,
 {
@@ -461,7 +461,7 @@
   "twitter_username": null,
   "public_repos": 35,
   "public_gists": 0,
-  "followers": 404,
+  "followers": 405,
   "following": 598,
   "created_at": "2022-05-20T21:08:00Z",
   "updated_at": "2026-07-20T17:50:32Z"
@@ -567,7 +567,7 @@
   "hireable": null,
   "bio": "ok",
   "twitter_username": null,
-  "public_repos": 48,
+  "public_repos": 49,
   "public_gists": 5,
   "followers": 67,
   "following": 42,
@@ -704,7 +704,7 @@
   "user_view_type": "public",
   "site_admin": false,
   "name": "Ufuk",
-  "company": "E Corp",
+  "company": "Coollective",
   "blog": "https://ufuk.party",
   "location": "Ankara, Turkey",
   "email": null,
@@ -716,7 +716,7 @@
   "followers": 22,
   "following": 30,
   "created_at": "2023-05-02T17:19:25Z",
-  "updated_at": "2026-08-05T17:12:37Z"
+  "updated_at": "2026-08-06T15:24:49Z"
 }
 ,
 {
@@ -1035,9 +1035,9 @@
   "hireable": true,
   "bio": "Curious, hands-on, and always learning—driven to build things that make sense and matter.",
   "twitter_username": null,
-  "public_repos": 114,
+  "public_repos": 115,
   "public_gists": 15,
-  "followers": 191,
+  "followers": 190,
   "following": 1858,
   "created_at": "2021-07-27T12:04:08Z",
   "updated_at": "2026-06-28T13:42:03Z"
