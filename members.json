@@ -173,7 +173,7 @@
   "twitter_username": null,
   "public_repos": 0,
   "public_gists": 0,
-  "followers": 12795,
+  "followers": 12796,
   "following": 0,
   "created_at": "2008-05-13T06:14:25Z",
   "updated_at": "2018-04-10T17:22:33Z"
@@ -209,7 +209,7 @@
   "twitter_username": null,
   "public_repos": 0,
   "public_gists": 0,
-  "followers": 12795,
+  "followers": 12796,
   "following": 0,
   "created_at": "2008-05-13T06:14:25Z",
   "updated_at": "2018-04-10T17:22:33Z"
@@ -812,19 +812,19 @@
   "user_view_type": "public",
   "site_admin": false,
   "name": "Emirhan TALA",
-  "company": null,
+  "company": "Odoo S.A.",
   "blog": "",
   "location": "Brussels, Belgium",
   "email": "tala.emirhan@gmail.com",
   "hireable": true,
-  "bio": "A rustacean v_(°v°)_v.\r\nComputer Engineer with Economics minor.",
+  "bio": "A rustacean v_(°v°)_v.\r\nComputer Engineer with Economics minor.\r\n\r\nR&D Software Developer @odoo ",
   "twitter_username": null,
   "public_repos": 36,
   "public_gists": 0,
   "followers": 82,
-  "following": 60,
+  "following": 61,
   "created_at": "2017-07-14T14:53:12Z",
-  "updated_at": "2026-08-13T13:03:26Z"
+  "updated_at": "2026-08-14T19:17:10Z"
 }
 ,
 {
