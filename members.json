@@ -29,7 +29,7 @@
   "twitter_username": null,
   "public_repos": 537,
   "public_gists": 12,
-  "followers": 5420,
+  "followers": 5418,
   "following": 597,
   "created_at": "2016-12-05T15:47:47Z",
   "updated_at": "2026-09-01T22:58:14Z"
@@ -173,7 +173,7 @@
   "twitter_username": null,
   "public_repos": 0,
   "public_gists": 0,
-  "followers": 12983,
+  "followers": 12985,
   "following": 0,
   "created_at": "2008-05-13T06:14:25Z",
   "updated_at": "2018-04-10T17:22:33Z"
@@ -209,7 +209,7 @@
   "twitter_username": null,
   "public_repos": 0,
   "public_gists": 0,
-  "followers": 12983,
+  "followers": 12985,
   "following": 0,
   "created_at": "2008-05-13T06:14:25Z",
   "updated_at": "2018-04-10T17:22:33Z"
@@ -356,7 +356,7 @@
   "followers": 41,
   "following": 17,
   "created_at": "2022-07-21T19:05:41Z",
-  "updated_at": "2026-09-16T20:22:28Z"
+  "updated_at": "2026-09-18T07:15:59Z"
 }
 ,
 {
@@ -461,7 +461,7 @@
   "twitter_username": null,
   "public_repos": 35,
   "public_gists": 0,
-  "followers": 415,
+  "followers": 414,
   "following": 596,
   "created_at": "2022-05-20T21:08:00Z",
   "updated_at": "2026-07-20T17:50:32Z"
@@ -704,7 +704,7 @@
   "user_view_type": "public",
   "site_admin": false,
   "name": "Ufuk",
-  "company": "Coollective*",
+  "company": "Coollective",
   "blog": "https://ufuk.party",
   "location": "Ankara, Turkey",
   "email": null,
@@ -714,9 +714,9 @@
   "public_repos": 48,
   "public_gists": 4,
   "followers": 23,
-  "following": 31,
+  "following": 30,
   "created_at": "2023-05-02T17:19:25Z",
-  "updated_at": "2026-09-17T20:36:04Z"
+  "updated_at": "2026-09-18T07:55:28Z"
 }
 ,
 {
@@ -1038,7 +1038,7 @@
   "public_repos": 118,
   "public_gists": 15,
   "followers": 204,
-  "following": 2032,
+  "following": 2039,
   "created_at": "2021-07-27T12:04:08Z",
   "updated_at": "2026-09-10T12:39:45Z"
 }
