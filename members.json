@@ -173,7 +173,7 @@
   "twitter_username": null,
   "public_repos": 0,
   "public_gists": 0,
-  "followers": 13121,
+  "followers": 13123,
   "following": 0,
   "created_at": "2008-05-13T06:14:25Z",
   "updated_at": "2018-04-10T17:22:33Z"
@@ -209,7 +209,7 @@
   "twitter_username": null,
   "public_repos": 0,
   "public_gists": 0,
-  "followers": 13121,
+  "followers": 13123,
   "following": 0,
   "created_at": "2008-05-13T06:14:25Z",
   "updated_at": "2018-04-10T17:22:33Z"
@@ -317,7 +317,7 @@
   "twitter_username": null,
   "public_repos": 7,
   "public_gists": 0,
-  "followers": 101,
+  "followers": 100,
   "following": 37,
   "created_at": "2020-10-16T14:12:43Z",
   "updated_at": "2026-10-04T14:52:50Z"
@@ -680,7 +680,7 @@
   "followers": 9,
   "following": 17,
   "created_at": "2022-02-04T22:04:43Z",
-  "updated_at": "2026-10-04T01:11:46Z"
+  "updated_at": "2026-10-12T05:31:54Z"
 }
 ,
 {
@@ -711,7 +711,7 @@
   "hireable": null,
   "bio": "ai/ml & cloud",
   "twitter_username": null,
-  "public_repos": 54,
+  "public_repos": 53,
   "public_gists": 4,
   "followers": 23,
   "following": 30,
@@ -747,7 +747,7 @@
   "hireable": true,
   "bio": "I do Rust, JavaScript and C. Loves yogurt, Linux",
   "twitter_username": null,
-  "public_repos": 31,
+  "public_repos": 30,
   "public_gists": 1,
   "followers": 54,
   "following": 64,
