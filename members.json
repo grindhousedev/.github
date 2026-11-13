@@ -27,9 +27,9 @@
   "hireable": true,
   "bio": "Terminal Chef @ratatui | Rust Developer Advocate @JetBrains |\r\nMaintainer @archlinux btw  ",
   "twitter_username": null,
-  "public_repos": 545,
+  "public_repos": 546,
   "public_gists": 12,
-  "followers": 5542,
+  "followers": 5540,
   "following": 599,
   "created_at": "2016-12-05T15:47:47Z",
   "updated_at": "2026-11-12T11:24:39Z"
@@ -65,7 +65,7 @@
   "twitter_username": null,
   "public_repos": 188,
   "public_gists": 0,
-  "followers": 111,
+  "followers": 112,
   "following": 114,
   "created_at": "2013-10-12T12:41:13Z",
   "updated_at": "2026-11-06T07:25:40Z"
@@ -173,7 +173,7 @@
   "twitter_username": null,
   "public_repos": 0,
   "public_gists": 0,
-  "followers": 13287,
+  "followers": 13289,
   "following": 0,
   "created_at": "2008-05-13T06:14:25Z",
   "updated_at": "2018-04-10T17:22:33Z"
@@ -209,7 +209,7 @@
   "twitter_username": null,
   "public_repos": 0,
   "public_gists": 0,
-  "followers": 13287,
+  "followers": 13289,
   "following": 0,
   "created_at": "2008-05-13T06:14:25Z",
   "updated_at": "2018-04-10T17:22:33Z"
@@ -896,7 +896,7 @@
   "followers": 19,
   "following": 11,
   "created_at": "2017-05-28T09:26:06Z",
-  "updated_at": "2026-11-05T09:18:50Z"
+  "updated_at": "2026-11-13T14:42:20Z"
 }
 ,
 {
@@ -1038,7 +1038,7 @@
   "public_repos": 115,
   "public_gists": 15,
   "followers": 220,
-  "following": 2200,
+  "following": 2201,
   "created_at": "2021-07-27T12:04:08Z",
   "updated_at": "2026-11-12T13:26:36Z"
 }
