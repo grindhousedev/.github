@@ -68,7 +68,7 @@
   "followers": 112,
   "following": 114,
   "created_at": "2013-10-12T12:41:13Z",
-  "updated_at": "2026-11-19T00:56:52Z"
+  "updated_at": "2026-11-21T10:43:45Z"
 }
 ,
 {
@@ -173,7 +173,7 @@
   "twitter_username": null,
   "public_repos": 0,
   "public_gists": 0,
-  "followers": 13336,
+  "followers": 13342,
   "following": 0,
   "created_at": "2008-05-13T06:14:25Z",
   "updated_at": "2018-04-10T17:22:33Z"
@@ -209,7 +209,7 @@
   "twitter_username": null,
   "public_repos": 0,
   "public_gists": 0,
-  "followers": 13336,
+  "followers": 13342,
   "following": 0,
   "created_at": "2008-05-13T06:14:25Z",
   "updated_at": "2018-04-10T17:22:33Z"
@@ -533,7 +533,7 @@
   "twitter_username": null,
   "public_repos": 238,
   "public_gists": 7,
-  "followers": 122,
+  "followers": 123,
   "following": 180,
   "created_at": "2016-03-03T00:24:50Z",
   "updated_at": "2026-09-17T23:08:40Z"
@@ -747,7 +747,7 @@
   "hireable": true,
   "bio": "I do Rust, JavaScript and C. Loves yogurt, Linux",
   "twitter_username": null,
-  "public_repos": 30,
+  "public_repos": 29,
   "public_gists": 1,
   "followers": 53,
   "following": 64,
@@ -1037,7 +1037,7 @@
   "twitter_username": null,
   "public_repos": 117,
   "public_gists": 15,
-  "followers": 221,
+  "followers": 220,
   "following": 2215,
   "created_at": "2021-07-27T12:04:08Z",
   "updated_at": "2026-11-20T06:16:12Z"
